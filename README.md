@@ -12,7 +12,7 @@ This project is being developed and open sourced in his memory, as he was intere
 
 # Supported Devices
 
-All A9-A13 devices on iOS 13.0-13.5
+All A9-A13 devices on iOS 13.0-13.7
 
 # Status
 
